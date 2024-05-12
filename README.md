@@ -1,3 +1,3 @@
-add monologue
-ajust cursol hover
+add monologue,
+ajust cursol hover,
 ajust children in hunbergar
