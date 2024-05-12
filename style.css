@@ -848,8 +848,7 @@ ul.photographyTheme :hover img~.place-name-tate {
 }
 /* forタブレット */
 @media (max-width:1000px) and (min-width: 671px)  {
-    /* #cursor-r {
-        display: none;
+
 
     .text-container {
         position: relative;
